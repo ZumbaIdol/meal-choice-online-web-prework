@@ -4,4 +4,4 @@ def (meal_choice).to eq("meat")
   
 end
 
-(meal_choice("fish")).to eq("fish")
+(meal_choice)
